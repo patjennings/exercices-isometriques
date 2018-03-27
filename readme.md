@@ -1,5 +1,6 @@
 ## Ecrire un article
-Ecrire en markdown
+- Ecrire en markdown
+- utiliser git
 
 ## Publier un article
 ```bash
