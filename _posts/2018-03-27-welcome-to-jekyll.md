@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! er"
+title:  "Welcome to Jekyll!"
 date:   2018-03-27 10:43:00 +0200
 categories: article
 author: Matthieu
