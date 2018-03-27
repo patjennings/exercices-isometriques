@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Documentation du blog"
+date:   2018-03-26 00:00:00 +0100
+categories: article
+author: Thomas
+excerpt_separator: <!--more-->
+---
 Comment publier un article sur Les Exercices Isométriques.<!--more-->
 ## Écrire l'article
 
