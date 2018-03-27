@@ -50,7 +50,7 @@ Explications. En gras, les trucs les plus importants pour publier
 - **`date` : la date de publication de l'article, à remplir à la mano selon le même format. L'heure, on s'en fout un peu, de toutes façons elle ne s'affiche pas.**
 - `categories` : ça, on s'en fout, c'est pour faire des regroupements, des trucs comme ça. Il vaut mieux ne pas changer ça, car ça apparait dans l'url
 - **`author` : le nom de l'auteur, hé ! Matthieu ou Thomas, quoi…**
-- `excerpt_separator` : en collant le `<!--more-->` où tu veux dans ton texte, tu peux choisir, sur la liste des posts de l'accueil, où l'extrait qui apparait sous le titre sera coupé. Si tu ne le mets nulle part, ça coupe tout seul à la  taille par défaut.
+  - **`excerpt_separator` : en collant le `<!--more-->` où tu veux dans ton texte, tu peux choisir, sur la liste des posts de l'accueil, où l'extrait qui apparait sous le titre sera coupé. Si tu ne le mets nulle part, ça affiche, ce qui n'est pas top niveau rendu.**
 
 ## Publication
 
