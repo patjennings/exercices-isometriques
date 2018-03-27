@@ -17,14 +17,10 @@ layout: default
         {% if site.posts.size > 0 %}
           {% for post in site.posts %}
           <a class="card w-100" href="{{ post.url | relative_url }}">
-              <!-- <img class="card-img-top" src="{{ post.cover }}" alt="Card image cap"> -->
-              {% if post.cover %}
-              <div class="card-cover" style="background-image: url({{ post.cover }});"></div>
-              {% endif %}
               <div class="card-body">
-                  <h4 class="card-title">{{ post.title }}</h4>
+                  <h4 class="card-title">{{ post.title }} </h4>
                   <p class="card-text">{{ post.excerpt | remove: '<p>' | remove: '</p>'}}...</p>
-                  <p class="card-text"><small class="text-muted">{{ post.date | date: date_format }}</small></p>
+                  <p class="card-text"><small class="text-muted">{{ post.date | date: '%B %d, %Y' }} • {{ post.author }}</small></p>
               </div>
           </a>
           {% endfor %}
@@ -34,9 +30,5 @@ layout: default
     </div>
     </div>
   </div>
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
-
-
-
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 </div>
