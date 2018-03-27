@@ -20,7 +20,7 @@ layout: default
               <div class="card-body">
                   <h4 class="card-title">{{ post.title }} </h4>
                   <p class="card-text">{{ post.excerpt | remove: '<p>' | remove: '</p>'}}...</p>
-                  <p class="card-text"><small class="text-muted">{{ post.date | date: '%B %d, %Y' }} • {{ post.author }}</small></p>
+                  <p class="card-text"><small class="text-muted">Le {{ post.date | date: '%d/%m/%Y' }}, {{ post.author }}</small></p>
               </div>
           </a>
           {% endfor %}

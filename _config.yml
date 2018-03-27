@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Exercices isométriques
+title: Les exercices isométriques
 email: bonjour@thomasguesnon.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Un blog sur le design, notamment
