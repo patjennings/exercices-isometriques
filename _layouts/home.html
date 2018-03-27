@@ -10,13 +10,13 @@ layout: default
   {{ content }}
 
 
-  <div class="container-fluid">
+  <div class="container">
     <div class="row">
       <div class="col-md">
       <div class="card-deck">
         {% if site.posts.size > 0 %}
           {% for post in site.posts %}
-          <a class="card" href="{{ post.url | relative_url }}">
+          <a class="card w-100" href="{{ post.url | relative_url }}">
               <!-- <img class="card-img-top" src="{{ post.cover }}" alt="Card image cap"> -->
               {% if post.cover %}
               <div class="card-cover" style="background-image: url({{ post.cover }});"></div>

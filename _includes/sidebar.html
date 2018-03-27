@@ -15,12 +15,7 @@
 
 <div class="container-fluid">
   <nav class="navbar navbar-expand-lg {% if page.layout == 'post' and page.cover %} navbar-dark bg-dark {% else %} navbar-light bg-light {% endif %}">
-    <a class="navbar-brand" href="http://www.thomasguesnon.fr">
-      {% if page.layout == 'post' and page.cover %}
-      <img src="http://www.thomasguesnon.fr/data/files/eye_logo_light.svg" width="30" height="30" alt="">
-      {% else %}
-      <img src="http://www.thomasguesnon.fr/data/files/eye_logo_dark.svg" width="30" height="30" alt="">
-      {% endif %}
+    <a class="navbar-brand" href="{{ "/" | relative_url }}">Exercices isométriques
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>
@@ -28,13 +23,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="http://www.thomasguesnon.fr">Travaux</a>
-        </li>
-        <li class="nav-item {% if page.id == '/article/1982/10/14/qui-je-suis' %}{% else %} active {% endif %}">
-          <a class="nav-link" href="{{ "/" | relative_url }}">Articles <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item {% if page.id == '/article/1982/10/14/qui-je-suis' %} active {% endif %}">
-          <a class="nav-link" href="http://www.thomasguesnon.fr/blog/article/1982/10/14/qui-je-suis.html">À propos</a>
+          <a class="nav-link" href="{{ "/" | relative_url }}">Des voitures dans les parkings ?<span class="sr-only">(current)</span></a>
         </li>
       </ul>
     </div>
