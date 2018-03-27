@@ -1,6 +1,13 @@
-## Ecrire un article
-- Ecrire en markdown
-- utiliser git
+## Écrire l'article
+
+#### Ajouter une image
+
+
+## Nom du fichier
+Le fichier doit être nommé de la façon suivante : `Y-m-d-the-title.md`
+Le nom du fichier n'est important qu'à titre de repère : c'est le champ `titre` des métadonnées de l'article qui s'affichera en tête de l'article
+
+## Métadonnées
 
 ```
 ---

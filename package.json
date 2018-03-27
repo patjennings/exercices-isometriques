@@ -1,5 +1,5 @@
 {
-  "name": "blog-thomas-guesnon",
+  "name": "exercices-isometriques",
   "version": "0.1.0",
   "scripts": {
     "start": "bundle exec jekyll serve"
