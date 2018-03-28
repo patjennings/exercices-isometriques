@@ -11,7 +11,7 @@ Pour poser une image sur le git, rien de plus simple :
 0. On va sur le repository, sur la branche `gh-pages`… Ou on y va en [cliquant là-dessus](https://github.com/patjennings/exercices-isometriques/tree/gh-pages)
 0. Là, on va dans [`images/`](https://github.com/patjennings/exercices-isometriques/tree/gh-pages/images)
 0. Et on uploade l'image ― en haut à droite, bouton `Upload files`
-0. Une fois que c'est bon, on récupère l'url de l'image ― clic droit > Copier l'adresse de l'image e.g.
+0. Une fois que c'est bon, on récupère l'url de l'image ― e.g. clic droit > Copier l'adresse de l'image
 
 Et là, on peut ajouter l'image dans notre contenu en markdown, en collant l'url entre les parenthèses :
 ```
