@@ -51,6 +51,9 @@ article{
   .post-content{
     // position: absolute;
     margin-top: 2rem;
+    iframe{
+      margin: 0 auto 2rem auto;
+    }
 
     p, pre code, ul li, ol li{
       font-size: 1.2rem;
