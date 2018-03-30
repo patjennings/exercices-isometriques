@@ -1,6 +1,7 @@
 # Les exercices isométriques
 https://patjennings.github.io/exercices-isometriques/
 
+# Publier un article
 Comment publier un article sur Les Exercices Isométriques.<!--more-->
 ## Écrire l'article
 
