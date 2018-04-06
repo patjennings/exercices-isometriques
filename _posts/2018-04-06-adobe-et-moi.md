@@ -10,7 +10,7 @@ J'ai un problème avec Adobe. En fait, j'ai un problème avec les outils qui veu
 
 L'autre partie du problème, c'est ce continuum qui est créé avec des sites comme Dribbble, ou Behance (Adobe). On ne peut s'empêcher d'être frappé par l'uniformité qui se dégage de ces pages internets. Est-ce dû au contenu ou au contenant ? Cela a peu d'importance, en fait. Mais c'est peut-être ça, le gros souci : cette forme d'apathie du design graphique, qui n'est pas nécessairement portée en soi par l'outil, mais par tout l'écosystème, par cette configuration particulière de l'espace du designer.
 
-La plupart des praticiens sont victimes d'un discours qui les maintient dans un rapport à leur pratique qui est déconnecté de la réalité. Ce sont des producteurs, et non des créatifs. Le manque de prise de conscience généralisé place donc toute la discipline dans une forme de schizophrénie qui la dessert ― et dont nous sommes en grande partie responsables.
+La plupart des praticiens sont victimes d'un discours qui les maintient dans un rapport à leur pratique qui est déconnecté de la réalité. Ce sont des producteurs, et non des créateurs. Le manque de prise de conscience généralisé place donc toute la discipline dans une forme de schizophrénie qui la dessert ― et dont nous sommes en grande partie responsables.
 
 ## Pareto-centered design
 L'intégration, au fur et à mesure, des fonctionnalités répondant aux demandes du plus grand nombre pose également problème. Le risque est de produire un outil qui, sous couvert de consensus avec les utilisateurs-designers, marginalise des pratiques différentes. Dans le rapport avec d'autres métiers, par exemple (développeurs, imprimeurs), le passage obligé par certains formats rend effectif cette marginalisation.
